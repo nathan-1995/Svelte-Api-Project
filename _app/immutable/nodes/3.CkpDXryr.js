@@ -1,0 +1,1 @@
+import{a as r,t}from"../chunks/disclose-version.Bw3cJ2gi.js";import"../chunks/legacy.Dp59fmBS.js";import{n as a}from"../chunks/runtime.Bn5xaFD8.js";var p=t("<h1>Shop Closed</h1> <p>We're sorry, but the shop is currently closed. Please check back later.</p>",1);function c(e){var o=p();a(2),r(e,o)}export{c as component};
