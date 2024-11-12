@@ -1,9 +1,10 @@
 <script lang="ts">
     export let data: { product: { id: number; title: string; description: string; price: number; thumbnail: string; rating: number; brand: string } };
 
-    const { product } = data; // Destructure the product data
+    const { product } = data; //product is the object that contains the product details
 </script>
 
+<!-- Display the product details -->
 {#if product}
     <h1>{product.title}</h1>
     <p>{product.description}</p>
