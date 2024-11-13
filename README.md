@@ -1,5 +1,8 @@
 ## Repo Demo URL: https://svelte-api-project.vercel.app/
 
+Login for user: user@user.com pw: user
+          Admin: admin@admin.com pw: admin
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
